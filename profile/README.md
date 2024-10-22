@@ -1,6 +1,6 @@
-# DevClimbersTeam
+# DevClimbers
 
-🌟 **Welcome to DevClimbersTeam!** 🌟
+🌟 **Welcome to DevClimbers!** 🌟
 
 We are passionate about **climbing new heights** in software development. From **mobile apps** to **full-scale web solutions**, we provide high-quality services to help businesses and ideas thrive in the digital world.
 
